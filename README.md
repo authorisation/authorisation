@@ -1,1 +1,1 @@
-![auth](https://moe-counter.glitch.me/get/@:authorisation?theme=asoul)
+![auth](https://count.getloli.com/@:authorisation?theme=asoul)
